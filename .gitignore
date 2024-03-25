@@ -1,0 +1,8 @@
+.idea/
+apps/authentication/migrations/
+apps/bot/migrations/
+ngrok.exe
+/.env
+env/
+/db.sqlite3
+/logs.log
